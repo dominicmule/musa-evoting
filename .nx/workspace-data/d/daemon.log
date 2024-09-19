@@ -1,0 +1,11 @@
+[NX Daemon Server] - 2024-09-19T18:27:22.685Z - Started listening on: /tmp/e761e36c44c3e8bc0799/d.sock
+[NX Daemon Server] - 2024-09-19T18:27:22.689Z - [WATCHER]: Subscribed to changes within: /workspace/musa-evoting (native)
+[NX Daemon Server] - 2024-09-19T18:27:22.692Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-19T18:27:22.692Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-19T18:27:22.694Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-19T18:27:22.696Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-19T18:27:22.697Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-19T18:27:22.697Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-19T18:27:22.697Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-19T18:27:22.697Z - [WATCHER]: Stopping the watcher for /workspace/musa-evoting (sources)
+[NX Daemon Server] - 2024-09-19T18:27:22.698Z - [WATCHER]: Stopping the watcher for /workspace/musa-evoting (outputs)
