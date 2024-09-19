@@ -265,8 +265,10 @@
     }
   },
   "cli": {
-    "defaultCollection": "@nrwl/angular",
-    "analytics": "220d6dd3-7d34-47ed-9169-026d0a7b1143"
+    "analytics": "220d6dd3-7d34-47ed-9169-026d0a7b1143",
+    "schematicCollections": [
+      "@nrwl/angular"
+    ]
   },
   "schematics": {
     "@nrwl/angular": {
@@ -290,6 +292,5 @@
     "@nrwl/angular:component": {
       "style": "scss"
     }
-  },
-  "defaultProject": "frontend"
+  }
 }
